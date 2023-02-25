@@ -1,0 +1,14 @@
+.box-shadow{
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+}
+
+.red-google{
+  color: #E23C2E;
+}
+.save-google{
+  color: #477BF7;
+}
+
+.errorColor{
+  color: rgb(199, 70, 70)
+}
